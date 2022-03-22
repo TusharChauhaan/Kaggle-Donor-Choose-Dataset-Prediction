@@ -4,6 +4,9 @@ The goal of the project is to predict whether or not a DonorsChoose.org project 
 Link(Kaggle) - https://www.kaggle.com/c/donorschoose-application-screening
 
 Applied various Tecniques
+
 GBDT - Gradient Boosting Decision Trees
+
 Naive Bayes
+
 Decision Trees
